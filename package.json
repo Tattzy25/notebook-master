@@ -1,5 +1,5 @@
 {
-  "name": "master-group-mcp",
+  "name": "notebook-master-mcp",
   "description": "The simplest way to run a stateless MCP server on Cloudflare Workers",
   "private": true,
   "type": "module",
